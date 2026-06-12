@@ -29,7 +29,6 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
-Sadece ikonlar yerine, `for-the-badge` formatında daha düzenli ve profesyonel duran rozetler kullandık.
 
 **Backend & AI** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
